@@ -1,0 +1,11 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",   // 将ES6语法转换为ES5
+      {
+        "useBuiltIns": "usage",    // 只编译需要编译的代码
+        "corejs": "3.0.1"
+      }
+    ]
+  ]
+}
