@@ -31,7 +31,7 @@ npm i webpack webpack-cli -D
 │ └── webpack.prod.js 	// 生产环境配置文件
 ├── dist			  	// 输出目录
 ├── src				  	// 源码目录
-│ └── main.js		  	// 入口文件
+│ └── index.js		  	// 入口文件
 ├── public	
 │ └── index.html
 └── package.json 		// 项目信息，依赖包，scripts命令
